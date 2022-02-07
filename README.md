@@ -11,6 +11,6 @@ This web scrape was built following the course [Web Scraping In Python: Master T
     - [X] Exercise 1: Expand the Data Extraction 
     - [X] Exercise 2: Wikipedia Entry Scrap
     - [X] Exercise 3: Combining Data Sources
-    - [ ] Challenge: Your own web scrap 
+    - [X] Challenge: Your own web scrap 
   - [X] - Section 3: Scraping Websites That Load Data With JavaScrpit
   - [X] - Section 4: APIs overview
